@@ -1,6 +1,7 @@
 # Unsupervised-Clustering-Project-News-Photos
-Clustering on NYT, Fox, and BBC photos scraped from web news sources for unsupervised clustering results. 
-Completed for a class project in Georgia Tech's masters program in data science.
+Clustering on NYT, Fox, and BBC photos scraped from web news sources for unsupervised clustering results. Completed for a class project in Georgia Tech's masters program in data science.
+
+
 <img width="480" alt="Screen Shot 2023-10-13 at 9 15 46 AM" src="https://github.com/antheamariemitchell/Unsupervised-Clustering-Project-News-Photos/assets/75390471/ad284224-bbbf-4164-9fe9-0be863d7e2d7">
 <img width="490" alt="Screen Shot 2023-10-13 at 9 16 22 AM" src="https://github.com/antheamariemitchell/Unsupervised-Clustering-Project-News-Photos/assets/75390471/f5d90e11-5fd8-4022-98ca-65f186890bd9">
 <img width="488" alt="Screen Shot 2023-10-13 at 9 16 33 AM" src="https://github.com/antheamariemitchell/Unsupervised-Clustering-Project-News-Photos/assets/75390471/87d5f48c-035a-45f9-a472-bf2fe32d9b73">
